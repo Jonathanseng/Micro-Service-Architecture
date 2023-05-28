@@ -1,0 +1,4 @@
+Microservices is all about making services loosely coupled, applying the single responsibility principle. It decomposes by business capability. Define services corresponding to business capabilities. A business capability is a concept from business architecture modeling [2]. It is something that a business does in order to generate value. A business capability often corresponds to a business object, e.g.
+
+Order Management is responsible for orders
+Customer Management is responsible for customers
